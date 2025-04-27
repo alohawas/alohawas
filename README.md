@@ -7,4 +7,4 @@
 - 🔭 Currently working on personal projects and learning Flutter
 - 📫 Reach me at: faqihaltaf@student.telkomuniverity.ac.id
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faqihaltaf&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alohawas&layout=compact&theme=tokyonight)
