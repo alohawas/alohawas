@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋, I'm FAQIH ALTAF GHIFARI!
 
 - 🎓 Computer Science Student at Telkom University
