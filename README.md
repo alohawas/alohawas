@@ -1,8 +1,8 @@
 # Hi there 👋, I'm FAQIH ALTAF GHIFARI!
 
 - 🎓 Computer Science Student at Telkom University
-- 🧠 Interested in Data Science, AI, and Backend Development
-- 🔭 Currently working on personal projects and learning Flutter
+- 🧠 Passionate about Data Science, AI, and Machine Learning
+- 🔭 Currently exploring personal projects in Data Science, Machine Learning, and AI
 - 📫 Reach me at: faqihaltaf@student.telkomuniverity.ac.id
 
 ## Languages I Use
@@ -13,5 +13,3 @@
 
 ## Github Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alohawas&theme=tokyonight)
-
-
