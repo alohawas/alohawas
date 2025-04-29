@@ -1,21 +1,23 @@
-name: Generate Snake Animation
+name: Generate Snake
 on:
   schedule:
-    - cron: "0 0 * * *"  # Update setiap hari (midnight UTC)
-  workflow_dispatch:     # Bisa di-trigger manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@master
+      - uses: actions/checkout@v4
         with:
-          github_user_name: alohawas  # Ganti dengan username Anda
-          svg_path: dist/github-contribution-grid-snake.svg
-      - name: Push to Branch
-        uses: crazy-max/ghaction-github-pages@v2
+          ref: output  # Langsung checkout branch 'output'
+      - uses: Platane/snk@master
         with:
-          target_branch: output       # Branch khusus untuk menyimpan SVG
-          build_dir: dist             # Folder output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: alohawas
+          svg_path: github-contribution-grid-snake.svg
+      - name: Push to Output
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update snake"
+          git push
