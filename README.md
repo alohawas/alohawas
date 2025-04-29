@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alohawas&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=alohawas&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -66,7 +66,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake Animation](https://github.com/alohawas/alohawas/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/alohawas/alohawas/output/github-contribution-grid-snake.svg)
 
 ---
 
