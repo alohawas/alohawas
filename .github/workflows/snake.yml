@@ -1,19 +1,22 @@
 name: Generate Snake
 on:
   schedule:
-    - cron: "0 0 * * *"  # Update setiap hari jam 00:00 UTC
-  workflow_dispatch:      # Memungkinkan trigger manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: output    # Langsung gunakan branch output
+          ref: output
+          fetch-depth: 0  # Penting untuk fetch seluruh history
+          
       - uses: Platane/snk@master
         with:
-          github_user_name: alohawas  # Pastikan username benar
+          github_user_name: alohawas
           svg_path: github-contribution-grid-snake.svg
+          
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Actions"
