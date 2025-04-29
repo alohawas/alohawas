@@ -53,8 +53,8 @@
 ---
 
 ## 🔥 Featured Projects
-[![IndonesiaSmartCity-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=alohawas&IndonesiaSmartCity-Analysis&theme=radical)]((https://github.com/alohawas/IndonesiaSmartCity-Analysis))
-[![calculator-lite](https://github-readme-stats.vercel.app/api/pin/?username=alohawas&calculator-lite&theme=radical)]((https://github.com/alohawas/calculator-lite))
+[![IndonesiaSmartCity-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=alohawas&repo=IndonesiaSmartCity-Analysis&theme=radical)](https://github.com/alohawas/IndonesiaSmartCity-Analysis)
+[![calculator-lite](https://github-readme-stats.vercel.app/api/pin/?username=alohawas&repo=calculator-lite&theme=radical)](https://github.com/alohawas/calculator-lite)
 
 ---
 
