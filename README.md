@@ -65,11 +65,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![Snake](https://raw.githubusercontent.com/alohawas/alohawas/output/github-contribution-grid-snake.svg)
-
----
-
 ## 💡 Today's Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
