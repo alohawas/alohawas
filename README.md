@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 🎓 Computer Science Student at **Telkom University**
 - 🧠 Passionate about **Data Science, AI, and Machine Learning**
-- 🔭 Currently working on **personal projects in ML/NLP**
+- 🔭 Currently working on **personal projects in ML/Computer Vision**
 - 🌱 Learning **LLMs, Computer Vision, and Big Data**
 - 📫 How to reach me: **faqihaltaf@student.telkomuniversity.ac.id**
 
